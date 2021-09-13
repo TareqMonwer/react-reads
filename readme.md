@@ -13,3 +13,8 @@
 + Book by Leanpub: https://leanpub.com/redux-book
 + UI.dev: https://ui.dev/redux/
 + WES BOSS: https://learnredux.com/
+
+### Routing
++ Must Know Concepts of React Router: https://blog.bitsrc.io/must-know-concepts-of-react-router-fb9c8cc3c12
++ Hookrouter: https://blog.logrocket.com/how-react-hooks-can-replace-react-router/
++ Cleaner & Moduler Routing: https://medium.com/software-insight/cleaner-and-modular-routing-in-react-92a6fcc97893

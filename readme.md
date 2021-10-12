@@ -1,3 +1,42 @@
+## Frequently Used Tools:
+- [ ] React Core Concepts (Hooks, Lifecycle of React Components, State Management in React)
+
+- [ ] Managing global state with (Redux Toolkit/Mobx/zustand/reselect/thunk) + redux-persist
+
+- [ ] React Hookform/ formik for creating and managing complex forms
+
+- [ ] Yup for form validation
+
+- [ ] React-Router
+
+- [ ] Next.js/Gatsby/Blitz.js
+
+- [ ] Image Optimization
+
+- [ ] Axios, Advanced usage of axios
+
+- [ ] Authentication methods, Social Authentication
+
+- [ ] Rolebased access restriction (both content, route)
+
+- [ ] Organizing files/codes (Clean code in react, clean architecture in react, react/frontend project architecture)
+
+- [ ] Use of PropTypes, lodash, moment, datefns, querparser, leaflet, chart.js, immer
+
+- [ ] React-Query, React-Table
+
+- [ ] Styled Components/Emotion
+
+- [ ] Higher order components (HOC)
+
+- [ ] Custom hooks, some third party custom hooks (check [https://usehooks.com/](https://usehooks.com/)) 
+
+- [ ] React Helmet, Storybook, React-Select, react-loadable, loadable-components, react-slick, react-dropzone
+
+- [ ] React-spring, framer-motion, using lottiefiles with react
+
+
+
 ## Articles:
 ### Plain React:
 + React hooks : the complete guide. https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6

@@ -64,6 +64,7 @@
 
 
 ## Plus points:
+
 - [ ] Typescript
 - [ ] Graphql
 - [ ] Third party tools integration (payment gateway, logging tools, analytics etc)

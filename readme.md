@@ -62,6 +62,12 @@
 
 - [ ] React-spring, framer-motion, using lottiefiles with react
 
+
+## Plus points:
+- [ ] Typescript
+- [ ] Graphql
+- [ ] Third party tools integration (payment gateway, logging tools, analytics etc)
+
 ## Articles:
 
 ### Plain React:

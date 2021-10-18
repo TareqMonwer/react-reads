@@ -42,9 +42,11 @@
 
 - [ ] Axios, Advanced usage of axios
 
+- [ ] Lazy Loading + Suspense. [Resource](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
+
 - [ ] Authentication methods, Social Authentication
 
-- [ ] Rolebased access restriction (both content, route)
+- [ ] Role-based access restriction (both content, route)
 
 - [ ] Organizing files/codes (Clean code in react, clean architecture in react, react/frontend project architecture)
 

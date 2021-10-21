@@ -40,7 +40,7 @@
 
 - [ ] Image Optimization
 
-- [ ] Axios, Advanced usage of axios
+- [ ] Axios, Advanced usage of axios [MUST READ](https://github.com/axios/axios)
 
 - [ ] Lazy Loading + Suspense. [Resource](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 

@@ -79,6 +79,9 @@
 - React Role Based Authorization. https://jasonwatmore.com/post/2019/02/01/react-role-based-authorization-tutorial-with-example
 - [Learn controlled/uncontrolled components](https://levelup.gitconnected.com/the-difference-between-controlled-and-uncontrolled-components-in-react-b76ac333db4d)
 
+### Patterns:
+- [Adapter pattern - create a component](https://www.freecodecamp.org/news/adapter-design-in-react/)
+
 ### Redux, ReduxToolkit:
 
 - By Erikson https://blog.isquaredsoftware.com/2020/12/presentations-react-redux-ts-intro/

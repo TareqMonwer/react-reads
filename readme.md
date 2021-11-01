@@ -78,6 +78,7 @@
 - React hooks : the complete guide. https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6
 - React Role Based Authorization. https://jasonwatmore.com/post/2019/02/01/react-role-based-authorization-tutorial-with-example
 - [Learn controlled/uncontrolled components](https://levelup.gitconnected.com/the-difference-between-controlled-and-uncontrolled-components-in-react-b76ac333db4d)
+- [(GH Issue) Where is the correct place to put interceptors in React app](https://github.com/axios/axios/issues/2315)
 
 ### Patterns:
 - [Adapter pattern - create a component](https://www.freecodecamp.org/news/adapter-design-in-react/)

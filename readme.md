@@ -52,7 +52,7 @@
 
 - [ ] Use of PropTypes, lodash, moment, datefns, querparser, leaflet, chart.js, immer
 
-- [ ] React-Query, React-Table
+- [ ] React-Query, React-Table, [React-Location](https://react-location.tanstack.com/)
 
 - [ ] Styled Components/Emotion
 
